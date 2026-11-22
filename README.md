@@ -5,7 +5,7 @@
 An agent skill for designing and auditing color in software interfaces — grounded in verified
 research, explicit about evidence versus hypothesis, and gated on WCAG 2.2.
 
-**Start here → [`SKILL.md`](https://www.agensi.io/creators/rupkumar-khatua)**
+**Start here → [`SKILL.md`](https://www.agensi.io/skills/mindpalette)**
 
 ---
 
